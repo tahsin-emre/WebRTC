@@ -47,5 +47,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>WebRTC Demo Camera Usage</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>WebRTC Demo Microphone Usage</string>
 </dict>
 </plist>
